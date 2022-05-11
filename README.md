@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jivanhubbard
 - 👀 I’m interested in learning React.js
-- 🌱 I’m currently learning programming in JS
-- 📫 You can reach me on Instagram: @jivanhubbard or via email: josiah@argondev.com
+- 🌱 I’m currently learning JavaScript
+- 📫 You can reach me on Instagram: @jivanhubbard or via email: josiah@argondev.com | josiah@heliumdev.com
 
 <!---
 jivanhubbard/jivanhubbard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
